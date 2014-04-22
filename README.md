@@ -43,6 +43,10 @@
 * [Core Ruby Programming](http://rubylearning.com/satishtalim/tutorial.html)
 * [Guia do Usuário Ruby Brasil](http://ruby-br.org/tutoriais/?t=1&p=0)
 
+### Livros
+* IT-ebooks: [1](http://it-ebooks.info/tag/ruby/) e [2](http://it-ebooks-search.info/search?q=ruby)
+* [Amazon](http://www.amazon.com/gp/search/ref=sr_pg_2?rh=n%3A283155%2Cn%3A5%2Cn%3A3839%2Cn%3A3952%2Cn%3A6134006011%2Ck%3Aruby)
+
 ## Outros Links
 
 * [Rubycentral](http://rubycentral.org/)

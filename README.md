@@ -32,7 +32,7 @@
 
 * [Codecademy](http://www.codecademy.com/tracks/ruby)
 * [Codescholl](https://www.codeschool.com/paths/ruby)
-* [Rubymonk](https://rubymonk.com/)
+* [Rubymonk](https://rubymonk.com/): [github](https://github.com/neo/ruby_koans)
 * [Rubykoans](http://rubykoans.com/)
 * [Railscasts](http://railscasts.com/)
 * [Wikibook - Ruby programmming language](http://en.wikibooks.org/wiki/Ruby_programming_language)

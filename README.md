@@ -12,6 +12,13 @@
 * [Rubyinstaller](http://rubyinstaller.org/)
 * [RVM](https://rvm.io/rvm/install)
 * [Pry](http://pryrepl.org/)
+* Virtualização
+	* [Vagrant](http://www.vagrantup.com/)
+		* [boxes](http://www.vagrantbox.es/)
+		* [Custom box](http://www.intelligentbee.com/blog/2013/09/17/setup-a-simple-ruby-2-on-rails-4-environment-with-vagrant-and-virtual-box/)
+		* [Rwprecise64](http://leopard.in.ua/rwprecise64/)
+		* [Rails-dev-box](https://github.com/rails/rails-dev-box)
+	* [Docker](https://www.docker.io/) e [containers](https://index.docker.io/)
 
 ### Documentação e Biblioteca
 
@@ -39,7 +46,7 @@
 * [Caelum - Apostila sobre Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/a-linguagem-ruby/)
 * [Programming Ruby](http://docs.ruby-doc.com/docs/ProgrammingRuby/)
 * [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/index.html)
-* [uby From Other Languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
+* [Ruby From Other Languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
 * [Core Ruby Programming](http://rubylearning.com/satishtalim/tutorial.html)
 * [Guia do Usuário Ruby Brasil](http://ruby-br.org/tutoriais/?t=1&p=0)
 
@@ -55,7 +62,5 @@
 * [Github](https://github.com/)
 * [Travis-ci](https://travis-ci.org/)
 * [Phantomjs](http://phantomjs.org/)
-* [Vagrant](http://www.vagrantup.com/) e [boxes](http://www.vagrantbox.es/)
-* [Docker](https://www.docker.io/) e [containers](https://index.docker.io/)
 * [Heroku](https://www.heroku.com/)
 * [Selenium WebDriver](http://docs.seleniumhq.org/projects/webdriver/)

@@ -1,5 +1,26 @@
 # DAFRAD
 
+![Banner da disciplina](assets/dafrad.png)
+
+Esta disciplina tem como objetivo apresentar ao aluno conceitos sobre desenvolvimento ágil através do Ruby on Rails.
+
+##Bibliografia
+###Bibliografia Básica
+
+###Bibliografia Complementar
+
+##Comunicação
+Toda a comunicação será realizada neste [grupo](https://www.facebook.com/groups/1441746739404160/) do facebook.
+
+##Avaliações
+###Provas Prática
+* Avaliação 01;
+* Avaliação 02;
+* Avaliação 03.
+
+A nota final será computado através da média aritmética das avaliações.
+
+#Material
 
 ## Ruby
 

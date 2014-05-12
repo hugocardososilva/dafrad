@@ -60,6 +60,7 @@ A nota final será computado através da média aritmética das avaliações.
 
 * [Codecademy](http://www.codecademy.com/tracks/ruby)
 * [Codescholl](https://www.codeschool.com/paths/ruby)
+* [Learnstreet](https://www.learnstreet.com/lessons/study/ruby)
 * [Rubymonk](https://rubymonk.com/): [github](https://github.com/neo/ruby_koans)
 * [Rubykoans](http://rubykoans.com/)
 * [Railscasts](http://railscasts.com/)

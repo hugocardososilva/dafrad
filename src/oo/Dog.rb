@@ -1,6 +1,9 @@
 class Dog3
 	# attr_accessor :name
-  21
+  
+  def initialize(name)
+    @name = name
+  end
   def name=(name)
     @name = name
   end
